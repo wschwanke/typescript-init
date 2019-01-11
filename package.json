@@ -1,5 +1,5 @@
 {
-  "name": "shopify-customer-migration-util",
+  "name": "typescript-init",
   "version": "1.0.0",
   "description": "A starting point for Node.js apps with TypeScript",
   "repository": {
@@ -7,7 +7,7 @@
     "url": "https://github.com/wschwanke/typescript-init"
   },
   "author": "Will Schwanke <wschwanke@gmail.com>",
-  "license": "MIT",
+  "license": "GNU GPLv3",
   "scripts": {
     "start": "yarn run serve",
     "build": "yarn run build-sass && yarn run build-ts && yarn run tslint",
